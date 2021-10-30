@@ -2,10 +2,10 @@
   "name": "kaggletitanic",
   "version": "1.0.0",
   "description": "me tryring to solve the kaggle titanic project",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "ts-node index.ts"
   },
   "author": "",
   "license": "ISC",
